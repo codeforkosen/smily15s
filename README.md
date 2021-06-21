@@ -1,7 +1,7 @@
 # smily15s
 
-- https://codeforkosen.github.io/smilyangry-d/
-- forked [smilyangly-d](https://github.com/codeforkosen/similyangly/)
+- https://codeforkosen.github.io/smily15s/
+- forked [smilyangly-d](https://github.com/codeforkosen/similyangly-d/)
 
 ## lib
 
