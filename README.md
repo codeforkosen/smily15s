@@ -5,6 +5,7 @@
 
 ## lib
 
+- [BulletML.js-es](https://github.com/taisukef/bulletml.js-es) forked from [BulletML.js](https://github.com/daishihmr/bulletml.js/) / [BulletML](http://www.asahi-net.or.jp/~cs8k-cyu/bulletml/)
 - [crisp-game-lib ES module version](https://github.com/taisukef/crisp-game-lib) forked from [crisp-game-lib by abagames](https://github.com/abagames/crisp-game-lib)
 
 ## 解説ブログ
